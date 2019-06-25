@@ -1,0 +1,9 @@
+<resources>
+    <string-array name="favColor">
+        <item>Light</item>
+        <item>Amber</item>
+        <item>Brown</item>
+        <item>Dark</item>
+        <item>Gray</item>
+    </string-array>
+</resources>
